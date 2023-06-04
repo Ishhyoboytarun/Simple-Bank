@@ -1,6 +1,6 @@
 # Simple-Bank
 
-# DB
+## DB Queries
 ```
 CREATE TABLE "accounts" (
   "id" bigserial PRIMARY KEY,
