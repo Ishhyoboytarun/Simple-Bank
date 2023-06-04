@@ -1,5 +1,11 @@
 # Simple-Bank
 
+## Database Design 
+
+```
+https://dbdiagram.io/d/647c91ca722eb774945c09d5
+```
+
 ## DB Queries
 ```
 CREATE TABLE "accounts" (
