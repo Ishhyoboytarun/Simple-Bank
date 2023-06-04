@@ -1,11 +1,10 @@
 # Simple-Bank
 
 ## Database Design 
+![Simple Bank](https://github.com/Ishhyoboytarun/Simple-Bank/assets/36428256/022c71e3-5fde-4b5c-9e5b-c29b34c0ffa7)
 
 ```
 https://dbdiagram.io/d/647c91ca722eb774945c09d5
-![Simple Bank](https://github.com/Ishhyoboytarun/Simple-Bank/assets/36428256/3a1a7c4f-34df-4321-9bc2-9e393689a72d)
-
 ```
 
 ## DB Queries
