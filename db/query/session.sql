@@ -12,5 +12,11 @@ INSERT INTO sessions (
          ) RETURNING *;
 
 -- name: GetSession :one
+create table sessions
+(
+    id int not null,
+    $1 int not null
+);
+
 SELECT * FROM sessions
 WHERE id = $1 LIMIT 1;
